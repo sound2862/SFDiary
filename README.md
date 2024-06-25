@@ -274,6 +274,13 @@ _글꼴도_ __바꿀수__ __*있다*__
 이미지는 복붙누르면 된다~  
 ![image](https://github.com/sound2862/SFDiary/assets/62818790/cd0489f5-b23a-4818-b7e1-3474aa66beb5)
 
+>요런것도
+>>되구
+>>>잘 쓰려면 센스가 있어야할거같다
+
+하이퍼링크도 있긴한데 당장은 필요없으니 패스  
+https://velog.io/@sanbondeveloper/%EB%B8%94%EB%A1%9C%EA%B7%B8-%EA%B8%80%EC%93%B0%EA%B8%B0%EB%A5%BC-%EC%9C%84%ED%95%9C-%EB%A7%88%ED%81%AC%EB%8B%A4%EC%9A%B4MarkDown  
+참고 링크만 남겨두자
 
 
 
