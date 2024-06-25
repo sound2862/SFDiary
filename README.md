@@ -56,7 +56,7 @@ C#으로 공부하자
 ![image](https://github.com/sound2862/SFDiary/assets/62818790/6de05b95-730b-488a-8a40-17865dd2aed0)
 
 >퀴즈!  
-Q)변수를 두개 만듭니다.  
+조건)변수를 두개 만듭니다.  
 string greet;  
 string name  
 
@@ -65,8 +65,11 @@ string name
 저는 장창훈입니다.
 ```
 ```
-string greet = "반갑습니다.";
-string name = "장창훈";
-Console.WriteLine($"{greet}");
-Console.WriteLine($"저는 {name} 입니다.");
+static void Main(string[] args)
+{
+    string greet = "반갑습니다.";
+    string name = "장창훈";
+    Console.WriteLine($"{greet}");
+    Console.WriteLine($"저는 {name} 입니다.");
+}
 ```
