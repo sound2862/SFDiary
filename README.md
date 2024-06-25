@@ -161,7 +161,23 @@ static void Main(string[] args)
 ```
 ![image](https://github.com/sound2862/SFDiary/assets/62818790/0b0a8f0d-5b7f-4cf6-aadd-696f97d9ad94)
 
+- 최소한의 형식
+```
+static void Main(string[] args)
+{
+    //1. 변수선언 및 입력부
+    Console.Write("가로 값을 입력해주세요");
+    int width = int.Parse(Console.ReadLine());
+    Console.Write("높이를 입력해주세요");
+    int height = int.Parse(Console.ReadLine());
 
+    //2. 알고리즘 수식 이라고 부른다
+    int result = width * height;
+    //3. 출력부
+    Console.WriteLine($"넓이는 {result}입니다.");
+}
+```
+![image](https://github.com/sound2862/SFDiary/assets/62818790/0323cadf-05ea-465e-92f8-5943921718cc)
 
 3.잡다한 팁?
 -
