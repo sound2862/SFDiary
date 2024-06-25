@@ -132,6 +132,22 @@ static void Main(string[] args)
 ```
 ![image](https://github.com/sound2862/SFDiary/assets/62818790/1184ec33-29af-4a0b-8838-92db1ee417ce)
 
+- 3+5는?
+```
+static void Main(string[] args)
+{
+    // 3 + 5를 변수를 이용하여 결과를 출력해보자.
+    int value1 = 3;
+    int value2 = 5;
+
+    int result = value1 + value2;   //8
+    Console.WriteLine(value1+value2);   //8
+    Console.WriteLine(result);
+    Console.WriteLine($"{value1} + {value2} = {result}");   //3 + 5 = 8
+}
+```
+![image](https://github.com/sound2862/SFDiary/assets/62818790/3d6f66f6-5795-4503-a710-67aac8bb6709)
+
 -------------------
 3.잡다한 팁?
 -
