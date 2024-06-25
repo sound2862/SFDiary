@@ -40,3 +40,5 @@ C#으로 공부하자
 
 ■ 매개변수!  
 ![image](https://github.com/sound2862/SFDiary/assets/62818790/0b6c28bf-69c0-4f32-8ec4-a3bc97d129cb)
+
+.
