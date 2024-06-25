@@ -53,7 +53,14 @@ C#으로 공부하자
 ![image](https://github.com/sound2862/SFDiary/assets/62818790/90d6c52d-0b7b-4208-9ec1-17acf5771c74)
 
 - 또한...  
-![image](https://github.com/sound2862/SFDiary/assets/62818790/6de05b95-730b-488a-8a40-17865dd2aed0)
+```
+static void Main(string[] args)
+{
+    string name = "장창훈";
+    Console.WriteLine("안녕하세요");
+    Console.WriteLine($"저는 {name} 입니다.");
+}
+```
 
 >퀴즈!  
 조건)변수를 두개 만듭니다.  
