@@ -179,6 +179,11 @@ static void Main(string[] args)
 ```
 ![image](https://github.com/sound2862/SFDiary/assets/62818790/0323cadf-05ea-465e-92f8-5943921718cc)
 
+```
+자료형도 신경써야한다.
+int는 2억 이런숫자 못넣으니까 자료형도 외우장
+```
+
 3.잡다한 팁?
 -
 - .cs파일은 csharp파일. (소스코드 파일)  
