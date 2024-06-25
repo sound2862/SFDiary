@@ -287,7 +287,7 @@ https://velog.io/@sanbondeveloper/%EB%B8%94%EB%A1%9C%EA%B7%B8-%EA%B8%80%EC%93%B0
 4.3 깃허브
 -
 
-슬래쉬 / 넣으면 폴더 생긴다
+슬래쉬 / 넣으면 폴더 생긴다  
 ![image](https://github.com/sound2862/SFDiary/assets/62818790/d58df477-9af7-48e8-90d9-31cb6130ee96)
 
 
