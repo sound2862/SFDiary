@@ -149,6 +149,19 @@ static void Main(string[] args)
 ```
 ![image](https://github.com/sound2862/SFDiary/assets/62818790/3d6f66f6-5795-4503-a710-67aac8bb6709)
 
+- 사진 못찍었는데,,, import안되면 설치하면 되는경우가 많다.
+
+- 숫자 받아오는 방법. (닷넷 프레임워크 기준)  
+이렇게 해야 숫자 여러번 받아올때 버그 안난당
+```
+static void Main(string[] args)
+{
+    Console.Write("숫자를 입력해주세요");  // Write는 한줄 안띄움. WriteLine은 띄움
+    int a = int.Parse(Console.ReadLine()); // 콘솔에서 한줄 읽고, int로 변환!(Parse)
+    Console.WriteLine(a);
+}
+```
+
 3.잡다한 팁?
 -
 - .cs파일은 csharp파일. (소스코드 파일)  
