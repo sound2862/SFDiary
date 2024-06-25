@@ -118,7 +118,7 @@ static void Main(string[] args)
 }
 ```
 
-- 3개 쓰려면 이런방식도 있다.
+- 여러개 쓰려면 이런방식도 있다.
 ```
 static void Main(string[] args)
 {
