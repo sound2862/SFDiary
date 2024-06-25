@@ -43,7 +43,6 @@ namespace ConsoleApp2
     {
         void Main() {
         }
-
     }
 }
 ```
