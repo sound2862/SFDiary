@@ -55,12 +55,12 @@ C#으로 공부하자
 - 또한...  
 ![image](https://github.com/sound2862/SFDiary/assets/62818790/6de05b95-730b-488a-8a40-17865dd2aed0)
 
->퀴즈!
-Q)변수를 두개 만듭니다.
-string greet;
-string name
+>퀴즈!  
+Q)변수를 두개 만듭니다.  
+string greet;  
+string name  
 
---------------
+```
 반갑습니다.
 저는 장창훈입니다.
---------------
+```
