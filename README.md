@@ -45,3 +45,9 @@ C#으로 공부하자
 코딩은 상세언어. 적은대로 나온다.  
 ->콘솔에.적어라.("헬로월드")를.;끝  
 ![image](https://github.com/sound2862/SFDiary/assets/62818790/b03d6324-d42c-4353-85e3-df00c56a765b)
+
+- 요것도 두줄  
+![image](https://github.com/sound2862/SFDiary/assets/62818790/001dc3b0-0a13-4ca8-acbb-54a952c8c307)
+
+- 요것도 또한 두줄  
+![image](https://github.com/sound2862/SFDiary/assets/62818790/90d6c52d-0b7b-4208-9ec1-17acf5771c74)
