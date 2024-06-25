@@ -159,6 +159,9 @@ static void Main(string[] args)
     Console.WriteLine(a);
 }
 ```
+![image](https://github.com/sound2862/SFDiary/assets/62818790/0b0a8f0d-5b7f-4cf6-aadd-696f97d9ad94)
+
+
 
 3.잡다한 팁?
 -
