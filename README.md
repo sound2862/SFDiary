@@ -211,6 +211,11 @@ static void Main(string[] args)
     Console.WriteLine("결과는? : " + result);
 }
 ```
+
+```
+double result = (width * height)/2.0; //이게 맞대... double이랑 * 2.0으로 실수만들어서 소수점도 표현하기
+```
+
 ![image](https://github.com/sound2862/SFDiary/assets/62818790/30ff0bd1-b144-4966-aa31-41583802cb0e)
 
 
