@@ -51,12 +51,18 @@ C#으로 공부하자
 static void Main(string[] args)
 {
     Console.WriteLine("안녕하세요");
-    Console.WriteLine($"나는 장창훈입니다.");
+    Console.WriteLine("나는 장창훈입니다.");
 }
 ```
 ![image](https://github.com/sound2862/SFDiary/assets/62818790/dcd69f5c-230e-4de1-b113-4fb062a6cd1a)
 
-- 요것도 또한 두줄  
+- 요것도 또한 두줄
+```
+static void Main(string[] args)
+{
+    Console.WriteLine("안녕하세요\n나는 장창훈입니다.");
+}
+```
 ![image](https://github.com/sound2862/SFDiary/assets/62818790/dcd69f5c-230e-4de1-b113-4fb062a6cd1a)
 
 - 또한...  
