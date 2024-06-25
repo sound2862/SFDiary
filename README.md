@@ -139,3 +139,6 @@ static void Main(string[] args)
 bin/exe에는 실행파일이 있다
 - exe파일 cmd창에 잡아끌면 경로가 뜨고, 실행도 된다!
 ![image](https://github.com/sound2862/SFDiary/assets/62818790/468a073b-2051-405d-b123-1bbb563e9620)
+- kafka : 분산형 데이터 스트리밍 플랫폼  
+오픈소스 이용할수있는곳.  
+https://kafka.apache.org/
