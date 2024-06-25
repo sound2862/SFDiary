@@ -80,3 +80,17 @@ static void Main(string[] args)
     Console.WriteLine($"저는 {name} 입니다.");
 }
 ```
+
+- 이런방식도 있다.
+```
+static void Main(string[] args)
+{
+    string greet = "반갑습니다";
+    string greet2 = "안녕하세요";
+    string name = "장창훈";
+    int age = 40;
+    Console.WriteLine("{0} {1}",greet,greet2);
+    Console.WriteLine($"저는 {name} {age}살 입니다.");
+}
+```
+![image](https://github.com/sound2862/SFDiary/assets/62818790/925522c9-cc9c-48ff-a1b1-af2432e4255a)
