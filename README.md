@@ -141,9 +141,9 @@ static void Main(string[] args)
     int value1 = 3;
     int value2 = 5;
 
-    int result = value1 + value2;   //8
+    int result = value1 + value2;
     Console.WriteLine(value1+value2);   //8
-    Console.WriteLine(result);
+    Console.WriteLine(result);   //8
     Console.WriteLine($"{value1} + {value2} = {result}");   //3 + 5 = 8
 }
 ```
