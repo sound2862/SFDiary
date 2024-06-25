@@ -216,6 +216,8 @@ static void Main(string[] args)
 double result = (width * height)/2.0; //이게 맞대... double이랑 * 2.0으로 실수만들어서 소수점도 표현하기
 ```
 
+![image](https://github.com/sound2862/SFDiary/assets/62818790/038a3dd4-b0e0-4597-acf7-2eac5cb871f9)
+
 ![image](https://github.com/sound2862/SFDiary/assets/62818790/30ff0bd1-b144-4966-aa31-41583802cb0e)
 
 
