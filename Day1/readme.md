@@ -279,13 +279,16 @@ _글꼴도_ __바꿀수__ __*있다*__
 >>되구
 >>>잘 쓰려면 센스가 있어야할거같다
 
-링크의 경우!
+- 링크의 경우!  
 Link: [google][googlelink]
 
 [googlelink]: https://google.com "Go google"
 
 * 구글링크: <https://google.com/>
-* 마크다운 참고링크: <https://velog.io/@sanbondeveloper/%EB%B8%94%EB%A1%9C%EA%B7%B8-%EA%B8%80%EC%93%B0%EA%B8%B0%EB%A5%BC-%EC%9C%84%ED%95%9C-%EB%A7%88%ED%81%AC%EB%8B%A4%EC%9A%B4MarkDown  >
+* 마크다운 참고링크: 
+Link: [b][a]
+
+[a]: https://velog.io/@sanbondeveloper/%EB%B8%94%EB%A1%9C%EA%B7%B8-%EA%B8%80%EC%93%B0%EA%B8%B0%EB%A5%BC-%EC%9C%84%ED%95%9C-%EB%A7%88%ED%81%AC%EB%8B%A4%EC%9A%B4MarkDown "?"
 
 
 - 깃허브 파일서 슬래쉬 / 넣으면 폴더 생긴다  
