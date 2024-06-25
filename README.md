@@ -41,6 +41,6 @@ C#으로 공부하자
 - 매개변수!  
 ![image](https://github.com/sound2862/SFDiary/assets/62818790/0b6c28bf-69c0-4f32-8ec4-a3bc97d129cb)
 
-- 스태틱이란..?
-- 코딩은 상세언어. (콘솔에.적어라.("헬로월드")를.;끝  
+- 스태틱이란..?  
+코딩은 상세언어. (콘솔에.적어라.("헬로월드")를.;끝  
  ![image](https://github.com/sound2862/SFDiary/assets/62818790/b03d6324-d42c-4353-85e3-df00c56a765b)
