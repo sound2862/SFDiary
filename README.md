@@ -132,4 +132,6 @@ static void Main(string[] args)
 -------------------
 
 - .cs파일은 csharp파일. (소스코드 파일)  
-bin/exe에는 실행파일이 있다 
+bin/exe에는 실행파일이 있다
+- exe파일 cmd창에 잡아끌면 경로가 뜨고, 실행도 된다!
+![image](https://github.com/sound2862/SFDiary/assets/62818790/468a073b-2051-405d-b123-1bbb563e9620)
