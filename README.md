@@ -130,3 +130,5 @@ static void Main(string[] args)
 
 -------------------
 
+- .cs파일은 csharp파일. (소스코드 파일)  
+bin/exe에는 실행파일이 있다 
