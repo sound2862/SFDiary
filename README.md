@@ -64,6 +64,9 @@ static void Main(string[] args)
 ```
 결과 : ![image](https://github.com/sound2862/SFDiary/assets/62818790/a09fb3c0-0953-411e-a522-79a6e106b535)
 
+2.다양한 출력 연습하기
+-
+
 - 요것도 두줄  
 ```
 static void Main(string[] args)
@@ -130,7 +133,8 @@ static void Main(string[] args)
 결과 : ![image](https://github.com/sound2862/SFDiary/assets/62818790/925522c9-cc9c-48ff-a1b1-af2432e4255a)
 
 -------------------
-
+3.잡다한 팁?
+-
 - .cs파일은 csharp파일. (소스코드 파일)  
 bin/exe에는 실행파일이 있다
 - exe파일 cmd창에 잡아끌면 경로가 뜨고, 실행도 된다!
