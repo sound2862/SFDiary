@@ -234,10 +234,12 @@ https://kafka.apache.org/
 4.외울거.. 정리
 -
 
-- 각종 코드들.
+4.1 각종 코드들.
+-
 ```
 ```
-
+4-2. 마크다운
+-
 - 필기를 위한 마크다운 문법
 #### 이렇게
 ### 크기를
@@ -282,6 +284,11 @@ _글꼴도_ __바꿀수__ __*있다*__
 https://velog.io/@sanbondeveloper/%EB%B8%94%EB%A1%9C%EA%B7%B8-%EA%B8%80%EC%93%B0%EA%B8%B0%EB%A5%BC-%EC%9C%84%ED%95%9C-%EB%A7%88%ED%81%AC%EB%8B%A4%EC%9A%B4MarkDown  
 참고 링크만 남겨두자
 
+4.3 깃허브
+-
+
+슬래쉬 / 넣으면 폴더 생긴다
+![image](https://github.com/sound2862/SFDiary/assets/62818790/d58df477-9af7-48e8-90d9-31cb6130ee96)
 
 
 5.이모저모
