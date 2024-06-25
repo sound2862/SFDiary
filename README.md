@@ -82,7 +82,8 @@ static void Main(string[] args)
 ```
 결과 : ![image](https://github.com/sound2862/SFDiary/assets/62818790/dcd69f5c-230e-4de1-b113-4fb062a6cd1a)
 
-- 또한...  
+- 또한...
+__$을 이용하면 C#에서 변수를 이용할수있다!!__
 ```
 static void Main(string[] args)
 {
