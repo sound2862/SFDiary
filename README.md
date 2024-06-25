@@ -64,3 +64,9 @@ string name
 반갑습니다.
 저는 장창훈입니다.
 ```
+```
+string greet = "반갑습니다.";
+string name = "장창훈";
+Console.WriteLine($"{greet}");
+Console.WriteLine($"저는 {name} 입니다.");
+```
