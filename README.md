@@ -43,8 +43,14 @@ C#으로 공부하자
 
 ■ 스태틱이란..?  
 코딩은 상세언어. 적은대로 나온다.  
-->콘솔에.적어라.("헬로월드")를.;끝  
-![image](https://github.com/sound2862/SFDiary/assets/62818790/b03d6324-d42c-4353-85e3-df00c56a765b)
+->콘솔에.적어라.("헬로월드")를.;끝 
+```
+static void Main(string[] args)
+{
+    Console.WriteLine("Hello World");
+}
+```
+![image](https://github.com/sound2862/SFDiary/assets/62818790/a09fb3c0-0953-411e-a522-79a6e106b535)
 
 - 요것도 두줄  
 ```
