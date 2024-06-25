@@ -63,7 +63,7 @@ static void Main(string[] args)
 ```
 
 >퀴즈!  
-조건)변수를 두개 만듭니다.  
+조건)변수를 두개 사용하라.  
 string greet;  
 string name  
 
