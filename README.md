@@ -91,7 +91,7 @@ static void Main(string[] args)
     Console.WriteLine($"저는 {name} 입니다.");
 }
 ```
-![image](https://github.com/sound2862/SFDiary/assets/62818790/dcd69f5c-230e-4de1-b113-4fb062a6cd1a)
+출력예 : ![image](https://github.com/sound2862/SFDiary/assets/62818790/dcd69f5c-230e-4de1-b113-4fb062a6cd1a)
 -------------------
 >퀴즈!  
 조건)변수를 두개 사용하라.  
