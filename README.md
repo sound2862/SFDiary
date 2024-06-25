@@ -161,7 +161,7 @@ static void Main(string[] args)
 ```
 ![image](https://github.com/sound2862/SFDiary/assets/62818790/0b0a8f0d-5b7f-4cf6-aadd-696f97d9ad94)
 
-- 최소한의 형식
+- 단순한 최소한의 알고리즘
 ```
 static void Main(string[] args)
 {
