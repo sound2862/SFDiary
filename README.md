@@ -1,15 +1,15 @@
 ############### 책 추천 #
 클린코드
->>https://www.yes24.com/Product/Goods/11681152 
->>아키텍처의 가시화를 위한 책, 유지보수 관련
+>https://www.yes24.com/Product/Goods/11681152 
+>아키텍처의 가시화를 위한 책, 유지보수 관련
 
 실용주의 프로그래머
->>https://www.yes24.com/Product/Goods/107077663 
->>             "
+>https://www.yes24.com/Product/Goods/107077663 
+>             "
 
 객체지향의 사실과 오해 
->>https://www.yes24.com/Product/Goods/11681152 
->>한국인 개발자의 입장에서 위의 내용을 서술.
+>https://www.yes24.com/Product/Goods/11681152 
+>한국인 개발자의 입장에서 위의 내용을 서술.
 
 ################ 여러여러 기억할점
 
