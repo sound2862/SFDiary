@@ -35,7 +35,7 @@ C#으로 공부하자
   - 레포지토리 만들때 체크 하면 main생성.(디폴트)
   체크 안하면 자바스크립트처럼 생성.
 
-■ C#의 클래스  
+■ C#의 클래스 형식  
 ![image](https://github.com/sound2862/SFDiary/assets/62818790/3d4ab2ac-a915-45ab-9c1f-cc5a473b661c)
 
 ■ 매개변수!  
