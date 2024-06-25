@@ -285,10 +285,10 @@ Link: [google][googlelink]
 [googlelink]: https://google.com "Go google"
 
 * 구글링크: <https://google.com/>
-* 마크다운 참고링크: 
-Link: [b][a]
+* 마크다운 참고링크:   
+Link: [참고링크][a]
 
-[a]: https://velog.io/@sanbondeveloper/%EB%B8%94%EB%A1%9C%EA%B7%B8-%EA%B8%80%EC%93%B0%EA%B8%B0%EB%A5%BC-%EC%9C%84%ED%95%9C-%EB%A7%88%ED%81%AC%EB%8B%A4%EC%9A%B4MarkDown "?"
+[a]: https://velog.io/@sanbondeveloper/%EB%B8%94%EB%A1%9C%EA%B7%B8-%EA%B8%80%EC%93%B0%EA%B8%B0%EB%A5%BC-%EC%9C%84%ED%95%9C-%EB%A7%88%ED%81%AC%EB%8B%A4%EC%9A%B4MarkDown
 
 
 - 깃허브 파일서 슬래쉬 / 넣으면 폴더 생긴다  
