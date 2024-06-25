@@ -47,8 +47,10 @@ namespace ConsoleApp2
 }
 ```
 
-- 매개변수!  
-![image](https://github.com/sound2862/SFDiary/assets/62818790/0b6c28bf-69c0-4f32-8ec4-a3bc97d129cb)
+- 요것이 바로 매개변수...
+```
+(string[] args)
+```
 
 - 스태틱이란..?  
 코딩은 상세언어. 적은대로 나온다.  
