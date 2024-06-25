@@ -62,7 +62,7 @@ static void Main(string[] args)
     Console.WriteLine("Hello World");
 }
 ```
-결과 : ![image](https://github.com/sound2862/SFDiary/assets/62818790/a09fb3c0-0953-411e-a522-79a6e106b535)
+![image](https://github.com/sound2862/SFDiary/assets/62818790/a09fb3c0-0953-411e-a522-79a6e106b535)
 
 2.다양한 출력 연습하기
 -
@@ -75,7 +75,7 @@ static void Main(string[] args)
     Console.WriteLine("나는 장창훈입니다.");
 }
 ```
-결과 : ![image](https://github.com/sound2862/SFDiary/assets/62818790/dcd69f5c-230e-4de1-b113-4fb062a6cd1a)
+![image](https://github.com/sound2862/SFDiary/assets/62818790/dcd69f5c-230e-4de1-b113-4fb062a6cd1a)
 
 - 요것도 또한 두줄
 ```
@@ -84,7 +84,7 @@ static void Main(string[] args)
     Console.WriteLine("안녕하세요\n나는 장창훈입니다.");
 }
 ```
-결과 : ![image](https://github.com/sound2862/SFDiary/assets/62818790/dcd69f5c-230e-4de1-b113-4fb062a6cd1a)
+![image](https://github.com/sound2862/SFDiary/assets/62818790/dcd69f5c-230e-4de1-b113-4fb062a6cd1a)
 
 - 또한...
 __$을 이용하면 C#에서 변수를 이용할수있다!!__
@@ -96,7 +96,7 @@ static void Main(string[] args)
     Console.WriteLine($"저는 {name} 입니다.");
 }
 ```
-결과 : ![image](https://github.com/sound2862/SFDiary/assets/62818790/dcd69f5c-230e-4de1-b113-4fb062a6cd1a)
+![image](https://github.com/sound2862/SFDiary/assets/62818790/dcd69f5c-230e-4de1-b113-4fb062a6cd1a)
 
 -------------------
 >퀴즈!  
@@ -130,7 +130,7 @@ static void Main(string[] args)
     Console.WriteLine($"저는 {name} {age}살 입니다.");
 }
 ```
-결과 : ![image](https://github.com/sound2862/SFDiary/assets/62818790/925522c9-cc9c-48ff-a1b1-af2432e4255a)
+![image](https://github.com/sound2862/SFDiary/assets/62818790/925522c9-cc9c-48ff-a1b1-af2432e4255a)
 
 -------------------
 3.잡다한 팁?
