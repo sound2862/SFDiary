@@ -140,8 +140,8 @@ static void Main(string[] args)
     // 3 + 5를 변수를 이용하여 결과를 출력해보자.
     int value1 = 3;
     int value2 = 5;
-
     int result = value1 + value2;
+
     Console.WriteLine(value1+value2);   //8
     Console.WriteLine(result);   //8
     Console.WriteLine($"{value1} + {value2} = {result}");   //3 + 5 = 8
