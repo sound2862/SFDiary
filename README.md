@@ -193,6 +193,25 @@ uint     0 ~ 4,294,967,295                                           부호없�
 long     -9,223,3772,036,854,775,808 ~ -9,223,3772,036,854,775,807   부호있는 64비트 정수
 ulong    0 ~ 18,446,744,073,709,551,615                              부호없는 64비트 정수
 ```
+-삼각형의 넓이 구하기! 새로 짜보자
+```
+static void Main(string[] args)
+{
+    //삼각형의 넓이를 구하는 수식을 작성하라.
+    Console.Write("세로 : ");
+    int height = int.Parse(Console.ReadLine());
+
+    Console.Write("가로 : ");
+    int width = int.Parse(Console.ReadLine());
+
+    int result = (width * height)/2;
+
+    Console.WriteLine("결과는? : " + result);
+}
+```
+![image](https://github.com/sound2862/SFDiary/assets/62818790/30ff0bd1-b144-4966-aa31-41583802cb0e)
+
+
 
 3.잡다한 팁?
 -
