@@ -236,4 +236,6 @@ https://kafka.apache.org/
 
 자리 좀 개조했는데.,,, 괜찮나 일단 그래도 편하고 익숙한식으로 써야 집중이 될거같다.  
 수업끝날때 잘 돌려두고, 모라모라 하면 그때 바꾸지 모  
-![image](https://github.com/sound2862/SFDiary/assets/62818790/a3cae32c-d319-4819-8329-7717cc6f5720)
+![image](https://github.com/sound2862/SFDiary/assets/62818790/a3cae32c-d319-4819-8329-7717cc6f5720)  
+
+커피 4잔마셨는데 밤에 잘수있을까 너무 걱정되구
