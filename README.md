@@ -149,8 +149,6 @@ static void Main(string[] args)
 ```
 ![image](https://github.com/sound2862/SFDiary/assets/62818790/3d6f66f6-5795-4503-a710-67aac8bb6709)
 
-- 사진 못찍었는데,,, import안되면 설치하면 되는경우가 많다.
-
 - 숫자 받아오는 방법. (닷넷 프레임워크 기준)  
 이렇게 해야 숫자 여러번 받아올때 버그 안난당
 ```
@@ -171,3 +169,4 @@ bin/exe에는 실행파일이 있다
 - kafka : 분산형 데이터 스트리밍 플랫폼  
 오픈소스 이용할수있는곳.  
 https://kafka.apache.org/
+- 사진 못찍었는데,,, import안되면 설치하면 되는경우가 많다.
