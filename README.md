@@ -112,7 +112,7 @@ static void Main(string[] args)
 }
 ```
 
-- 이런방식도 있다.
+- 3개 쓰려면 이런방식도 있다.
 ```
 static void Main(string[] args)
 {
@@ -125,3 +125,4 @@ static void Main(string[] args)
 }
 ```
 ![image](https://github.com/sound2862/SFDiary/assets/62818790/925522c9-cc9c-48ff-a1b1-af2432e4255a)
+-------------------
