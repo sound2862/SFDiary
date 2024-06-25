@@ -3,7 +3,7 @@
 >https://www.yes24.com/Product/Goods/11681152 
 >아키텍처의 가시화를 위한 책, 유지보수 관련
 
- - 실용주의 프로그래머
+  - 실용주의 프로그래머
 >https://www.yes24.com/Product/Goods/107077663 
 >             "
 
