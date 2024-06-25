@@ -51,3 +51,6 @@ C#으로 공부하자
 
 - 요것도 또한 두줄  
 ![image](https://github.com/sound2862/SFDiary/assets/62818790/90d6c52d-0b7b-4208-9ec1-17acf5771c74)
+
+- 또한...
+![image](https://github.com/sound2862/SFDiary/assets/62818790/6de05b95-730b-488a-8a40-17865dd2aed0)
