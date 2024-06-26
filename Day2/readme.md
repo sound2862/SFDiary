@@ -217,7 +217,6 @@ Console.WriteLine($"몫: {d}");
 Console.WriteLine($"나머지: {e}");
 ```
 ![image](https://github.com/sound2862/SFDiary/assets/62818790/cb605b0a-9904-4799-acf0-3b6dc1d71dbb)
-
 `/ 와 %의 차이와 활용을 명확히 알자. % = 모듈러 라고 부른대`
 
 #이모저모
