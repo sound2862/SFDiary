@@ -98,6 +98,12 @@ static void Main(string[] args)
     Console.WriteLine($"{v1} {v2}");     //200, 100
 }
 ```
+- 교수님은 이렇게, 나중에 배울 홉 정렬 요런것까지 생각해서!
+```
+int temp = v1;
+v1 = v2;
+v2 = temp;
+```
 ![image](https://github.com/sound2862/SFDiary/assets/62818790/987e97d8-c42a-4333-a4e9-0f744598ab28)
 
 #이모저모
