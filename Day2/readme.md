@@ -25,3 +25,6 @@
 ```
 Console.WriteLine("Hello, World!");     //객체.함수 형식, 콘솔이라는 기본적인 객체를 이용함!
 ```
+```
+public static void WriteLine(string? value)   // 공개되고, 메모리에 할당되고, 반환값없고, 이름(매개변수는 string)
+```
