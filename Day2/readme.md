@@ -98,3 +98,5 @@ static void Main(string[] args)
     Console.WriteLine($"{v1} {v2}");     //200, 100
 }
 ```
+![image](https://github.com/sound2862/SFDiary/assets/62818790/50abc279-5460-4c29-a077-6a73e1ef05aa)
+
