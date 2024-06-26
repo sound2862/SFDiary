@@ -66,4 +66,17 @@ static void Main(string[] args)
 ```
 ![image](https://github.com/sound2862/SFDiary/assets/62818790/7a94db3f-834e-4eff-a3b1-6964c74f7dd3)
 
+>퀴즈2
+```
+static void Main(string[] args)
+{
+    int v1 = Int32.Parse(Console.ReadLine());
+    int v2 = Int32.Parse(Console.ReadLine());
 
+    Console.WriteLine($"{v1}{v2}");     //100, 200
+    //코딩
+    //
+    //
+    Console.WriteLine($"{v1}{v2}");     //200, 100
+}
+```
