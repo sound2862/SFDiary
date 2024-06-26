@@ -227,6 +227,11 @@ Console.WriteLine($"나머지: {e}");
 ![image](https://github.com/sound2862/SFDiary/assets/62818790/638c7e2e-d235-4dee-a2dc-a8b1b9ec2a90)  
  __`day1에 있지만 다시보자 자료형`__
 
+```
+double pi = 3.141592;
+float pi2 = 3.141592F;
+```
+
 
 #이모저모
 -
