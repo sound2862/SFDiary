@@ -116,7 +116,7 @@ Console.WriteLine($"나의 친구는 {firstFriend.Length}과 {secondFriend.Lengt
 ```
 ![image](https://github.com/sound2862/SFDiary/assets/62818790/d98937b4-5068-4377-b125-2ca812d3965e)
 
--trim 하기!
+- trim 하기!
 ```
 string greeting = "   안녕   ";
 Console.WriteLine(greeting);
