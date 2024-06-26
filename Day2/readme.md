@@ -247,6 +247,15 @@ Console.WriteLine(max+3);   //오버플로우 됐는데 출력되네.. 버그 �
 
 `헷갈리면 이렇게 찍어봐도될듯`
 
+- 원 너비
+```
+double radius = 2.50;
+Console.WriteLine(Math.PI);
+
+double area = Math.PI * radius * radius;
+Console.WriteLine($"{area:f2}");
+```  
+`쓰기전에 한번씩 찍어보자 ㅇㅇ`
 
 #이모저모
 -
