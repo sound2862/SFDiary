@@ -280,8 +280,7 @@ _글꼴도_ __바꿀수__ __*있다*__
 >>>잘 쓰려면 센스가 있어야할거같다
 
 - 링크의 경우!  
-Link: [google][googlelink]
-
+Link: [google][googlelink]  
 [googlelink]: https://google.com "Go google"
 
 * 구글링크: <https://google.com/>
