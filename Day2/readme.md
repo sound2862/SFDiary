@@ -7,7 +7,8 @@
 
 - 교수님이 추천하는 코딩연습장 사이트 : [그누보드][a]
 
-[a]: http://www.verthasys.co.kr/coding/bbs/board.php?bo_table=db&page=3&device=pc
+[a]: http://www.verthasys.co.kr/coding/bbs/board.php?bo_table=db&page=3&device=pc  
+여기서 문제도 내고,, 연습도 하고 할꺼니까 애용하자!
 
 >__용어 및 상식__
 
