@@ -74,9 +74,27 @@ static void Main(string[] args)
     int v2 = Int32.Parse(Console.ReadLine());
 
     Console.WriteLine($"{v1}{v2}");     //100, 200
-    //코딩
+    //코딩으로 순서 바꿔보기!
     //
     //
     Console.WriteLine($"{v1}{v2}");     //200, 100
+}
+```
+- 내 답안지
+```
+static void Main(string[] args)
+{
+    int v1 = Int32.Parse(Console.ReadLine());
+    int v2 = Int32.Parse(Console.ReadLine());
+
+    Console.WriteLine($"{v1} {v2}");     //100, 200
+
+    int temp1 = v1;
+    int temp2 = v2;
+
+    v1 = temp2;
+    v2 = temp1;
+
+    Console.WriteLine($"{v1} {v2}");     //200, 100
 }
 ```
