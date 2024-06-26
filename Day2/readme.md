@@ -1,4 +1,4 @@
-# __2일차! (24.06.26(수))__
+![image](https://github.com/sound2862/SFDiary/assets/62818790/c8497841-49e3-405e-88d8-9464a9a11c55)# __2일차! (24.06.26(수))__
 
 - msdn c# : [Link][a]
 
@@ -256,6 +256,21 @@ double area = Math.PI * radius * radius;
 Console.WriteLine($"{area:f2}");
 ```  
 `쓰기전에 한번씩 찍어보자 ㅇㅇ`
+
+#브레이크 포인트
+-
+- 브레이크 포인트 (C#꿀팁!)
+
+1.체크하고자 하는곳들에 f9로 브레이크 포인트 지정.
+2.f10,f11로 한줄,또는 프로시저 단위로 코드 진행.
+3.출력창을 보고 형식과 값의 형태를 체크할수있다.(공부할때 유용!)
+
+![image](https://github.com/sound2862/SFDiary/assets/62818790/8c5c1406-b60f-4879-9b8c-e7d512cf4583)  
+`요렇게 하면`  
+![image](https://github.com/sound2862/SFDiary/assets/62818790/4e0a9de7-6298-40be-bb02-1fe25c1b4856)  
+`요로코롬 나온다`
+
+
 
 #이모저모
 -
