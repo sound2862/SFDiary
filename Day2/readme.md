@@ -1,1 +1,3 @@
-2
+# __2일차! (24.06.26(수))__
+
+- msdn c# : https://learn.microsoft.com/ko-kr/dotnet/csharp/
