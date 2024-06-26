@@ -160,6 +160,32 @@ Console.WriteLine(c);
 ![image](https://github.com/sound2862/SFDiary/assets/62818790/4f7cce64-d446-48f3-b1a4-d6f59905965f)
 `타입 바꾸기~`
 
+>퀴즈3
+```
+static void Main(string[] args)
+{
+    //화씨 온도 = 9 / 5 * 섭씨온도 + 32
+    //입력은 1~100사이의 자연수
+    //출력은 소수점 둘째자리까지
+
+    int C;
+    double F;
+
+    C = int.Parse(Console.ReadLine());
+
+    if (C < 1 | C > 100)
+    {
+        Console.WriteLine("1부터 100까지의 정수중에 적어주세요.");
+        return;
+    }
+
+    F = (C*9.0/5.0) + 32;
+
+    Console.WriteLine(F.ToString("0.##"));
+}
+```  
+`1~100사이의 자연수는 if절과 이중조건으로 넣었고, ToString()으로 자릿수 정해줬다.`
+
 #이모저모
 -
 퀴즈2에서, 풀다가 '음... 임시공간 필요하니까... 영어로 temporary.. 니까 temp1,2로 써야징! 했는데 정답도 그거였구 단어 맞춰버렸구 너무재밌다
