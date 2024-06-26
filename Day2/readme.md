@@ -46,5 +46,7 @@ static void Main(string[] args)
 - 새파란 친구는 변수로 쓸수없다. string class; 이런거 안댐
 ![image](https://github.com/sound2862/SFDiary/assets/62818790/4e25eff1-bdcb-48ea-9fc4-508a66a53063)
 
+- _폭발적인 성장을 위해서는 코딩도 좋지만, 기본지식(운영체제, 역사) 요런걸 이해해두는게 장기적으로 좋다!_
+
 - 
 
