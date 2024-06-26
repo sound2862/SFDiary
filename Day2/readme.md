@@ -30,7 +30,7 @@ public static void WriteLine(string? value)   // 공개되고, 메모리에 할�
 ```
 - 리턴타입
 용어에 익숙해지자ㅇㅇ ?string 저게 반환해주는 타입이다.
-![image](https://github.com/sound2862/SFDiary/assets/62818790/0f5cf5d6-eb3e-42f6-abc9-559a320d3c98)
+![image](https://github.com/sound2862/SFDiary/assets/62818790/0f5cf5d6-eb3e-42f6-abc9-559a320d3c98)  
 `타입 안맞으면 이렇게됨`
 ![image](https://github.com/sound2862/SFDiary/assets/62818790/e7425725-f388-402f-bbac-32080bfac795)
 
