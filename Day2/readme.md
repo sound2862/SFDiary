@@ -48,5 +48,21 @@ static void Main(string[] args)
 
 - _폭발적인 성장을 위해서는 코딩도 좋지만, 기본지식(운영체제, 역사) 요런걸 이해해두는게 장기적으로 좋다!_
 
-- 
+>퀴즈
+```
+static void Main(string[] args)
+{
+    //두 정수 v1, v2를 입력받아 그 합을 출력하라.
+    Console.WriteLine("정수를 입력하세요");
+    int a = int.Parse(Console.ReadLine());
+    Console.WriteLine("정수를 입력하세요");
+    int b = int.Parse(Console.ReadLine());
+
+    int r = a + b;
+
+    Console.WriteLine(r);
+}
+```
+![image](https://github.com/sound2862/SFDiary/assets/62818790/7a94db3f-834e-4eff-a3b1-6964c74f7dd3)
+
 
