@@ -276,6 +276,21 @@ Console.WriteLine($"{area:f2}");
 - if문
 if문의 조건문의 경우, String이든 Int든 float든 전부 가능하다.
 
+- 홀짝
+```
+static void Main(string[] args)
+{
+    int value = Int32.Parse(Console.ReadLine());
+
+    if (value % 2 == 1) //홀수
+    {
+        Console.WriteLine("홀수");
+    }
+    else Console.WriteLine("짝수"); 
+}
+```
+
+
 #이모저모
 -
 퀴즈2에서, 풀다가 '음... 임시공간 필요하니까... 영어로 temporary.. 니까 temp1,2로 써야징! 했는데 정답도 그거였구 단어 맞춰버렸구 너무재밌다  
