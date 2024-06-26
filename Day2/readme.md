@@ -133,6 +133,16 @@ Console.WriteLine(trimmedGreeting);
 ![image](https://github.com/sound2862/SFDiary/assets/62818790/a6f667fd-d697-4b48-ae17-3cb4a0b8a84a)
 `문자열 객체에 Trim이 들어있다! C#에는 꼭 들어있으니 잘 써먹자`
 
+- 대문자 소문자 변환하기. 요것또한 객체에 들어있다 다른것도 많으니 찾아서 알아서 잘 쓰자
+```
+string greeting = "Good Morning";
+
+Console.WriteLine(greeting);
+Console.WriteLine(greeting.ToUpper());
+Console.WriteLine(greeting.ToLower());
+```
+![image](https://github.com/sound2862/SFDiary/assets/62818790/0d4d175e-8d26-4c8e-8b0f-c327968fe59f)
+
 #이모저모
 -
 퀴즈2에서, 풀다가 '음... 임시공간 필요하니까... 영어로 temporary.. 니까 temp1,2로 써야징! 했는데 정답도 그거였구 단어 맞춰버렸구 너무재밌다
