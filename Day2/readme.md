@@ -144,6 +144,18 @@ Console.WriteLine(greeting.ToLower());
 ![image](https://github.com/sound2862/SFDiary/assets/62818790/0d4d175e-8d26-4c8e-8b0f-c327968fe59f)
 `요것또한 객체에 들어있다 다른것도 많으니 찾아서 알아서 잘 쓰자`
 
+- 캐스팅
+```
+int a = 18;
+int b = 7;
+double c = (double)a / b;
+
+Console.WriteLine(c);
+```
+![image](https://github.com/sound2862/SFDiary/assets/62818790/4f7cce64-d446-48f3-b1a4-d6f59905965f)
+`타입 바꾸기~`
+ 
+
 #이모저모
 -
 퀴즈2에서, 풀다가 '음... 임시공간 필요하니까... 영어로 temporary.. 니까 temp1,2로 써야징! 했는데 정답도 그거였구 단어 맞춰버렸구 너무재밌다
