@@ -240,8 +240,10 @@ int min = int.MinValue;
 
 Console.WriteLine(max);
 Console.WriteLine(min);
+
+Console.WriteLine(max+3);   //오버플로우 됐는데 출력되네.. 버그 코드임
 ```  
-![image](https://github.com/sound2862/SFDiary/assets/62818790/7997147c-a675-445a-a888-b0e15dc2cbc0)  
+![image](https://github.com/sound2862/SFDiary/assets/62818790/a347adbe-1629-4fd0-90f1-faa4a356e5fb)
 
 `헷갈리면 이렇게 찍어봐도될듯`
 
