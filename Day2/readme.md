@@ -1,4 +1,4 @@
-![image](https://github.com/sound2862/SFDiary/assets/62818790/c8497841-49e3-405e-88d8-9464a9a11c55)# __2일차! (24.06.26(수))__
+# __2일차! (24.06.26(수))__
 
 - msdn c# : [Link][a]
 
