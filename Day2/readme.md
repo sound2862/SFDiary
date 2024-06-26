@@ -123,8 +123,15 @@ Console.WriteLine(greeting);
 
 string trimmedGreeting = greeting.TrimStart();
 Console.WriteLine(trimmedGreeting);
+
+trimmedGreeting = greeting.TrimEnd();
+Console.WriteLine(trimmedGreeting);
+
+trimmedGreeting = greeting.Trim();
+Console.WriteLine(trimmedGreeting);
 ```
-![image](https://github.com/sound2862/SFDiary/assets/62818790/00c36406-1470-46cd-b351-fb7903583f35)
+![image](https://github.com/sound2862/SFDiary/assets/62818790/a6f667fd-d697-4b48-ae17-3cb4a0b8a84a)
+`문자열 객체에 Trim이 들어있다! C#에는 꼭 들어있으니 잘 써먹자`
 
 #이모저모
 -
