@@ -28,3 +28,21 @@ Console.WriteLine("Hello, World!");     //객체.함수 형식, 콘솔이라는 
 ```
 public static void WriteLine(string? value)   // 공개되고, 메모리에 할당되고, 반환값없고, 이름(매개변수는 string)
 ```
+- 리턴타입
+용어에 익숙해지자ㅇㅇ ?string 저게 반환해주는 타입이다.
+![image](https://github.com/sound2862/SFDiary/assets/62818790/0f5cf5d6-eb3e-42f6-abc9-559a320d3c98)
+`타입 안맞으면 이렇게됨`
+![image](https://github.com/sound2862/SFDiary/assets/62818790/e7425725-f388-402f-bbac-32080bfac795)
+
+```
+static void Main(string[] args)
+{
+    string greet;       //변수 선언
+    greet = Console.ReadLine();     //값 할당, 초기화
+
+    Console.WriteLine(greet);       //출력
+}
+```
+- 새파란 친구는 변수로 쓸수없다
+![image](https://github.com/sound2862/SFDiary/assets/62818790/4e25eff1-bdcb-48ea-9fc4-508a66a53063)
+
