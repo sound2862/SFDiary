@@ -236,6 +236,9 @@ https://kafka.apache.org/
 4-1 각종 코드들.
 -
 ```
+Console.WriteLine(v);  //콘솔에 출력
+int width = int.Parse(Console.ReadLine()); //콘솔입력 읽어서 int로 변환
+double result = (width * height)/2.0;  //실수형으로 바꾸기
 ```
 4-2. 마크다운
 -
