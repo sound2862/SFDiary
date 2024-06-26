@@ -270,7 +270,11 @@ Console.WriteLine($"{area:f2}");
 ![image](https://github.com/sound2862/SFDiary/assets/62818790/4e0a9de7-6298-40be-bb02-1fe25c1b4856)  
 `요로코롬 나온다`
 
+>다시 필기
+>-
 
+- if문
+if문의 조건문의 경우, String이든 Int든 float든 전부 가능하다.
 
 #이모저모
 -
