@@ -290,6 +290,20 @@ static void Main(string[] args)
 }
 ```
 
+- 관계연산자
+```
+int a = 5;
+int b = 3;
+int c = 4;
+
+if ((a + b + c > 10) && (a == b)){
+    Console.WriteLine("두 조건이 모두 맞음");
+}
+else {
+    Console.WriteLine("두 조건이 모두 맞지않음");
+}
+```  
+`&&(and), ||(or) 요런게 있다 알고는 있으니까 잊지말자`
 
 #이모저모
 -
