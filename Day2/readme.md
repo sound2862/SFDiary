@@ -222,8 +222,10 @@ Console.WriteLine($"나머지: {e}");
 - 자료형에 대해  
 ![image](https://github.com/sound2862/SFDiary/assets/62818790/a318b2b2-4795-477f-9b5a-088db8c6045e)  
 `자료형의 최대치를 넘기면, 다른 자료형으로 바꿔줘야한다.(예 : uint).`  
-`아니면 아예 런조차 못한다`  
- __`day1에 있으니까 다시보자 자료형`__
+`아니면 아예 런조차 못한다`
+- 자료형
+![image](https://github.com/sound2862/SFDiary/assets/62818790/638c7e2e-d235-4dee-a2dc-a8b1b9ec2a90)
+ __`day1에 있지만 다시보자 자료형`__
 
 
 #이모저모
