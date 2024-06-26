@@ -219,6 +219,12 @@ Console.WriteLine($"나머지: {e}");
 ![image](https://github.com/sound2862/SFDiary/assets/62818790/cb605b0a-9904-4799-acf0-3b6dc1d71dbb)   
 `/ 와 %의 차이와 활용을 명확히 알자. % = 모듈러 라고 부른대`
 
+- 자료형에 대해
+```
+![image](https://github.com/sound2862/SFDiary/assets/62818790/a318b2b2-4795-477f-9b5a-088db8c6045e)
+```
+
+
 #이모저모
 -
 퀴즈2에서, 풀다가 '음... 임시공간 필요하니까... 영어로 temporary.. 니까 temp1,2로 써야징! 했는데 정답도 그거였구 단어 맞춰버렸구 너무재밌다  
