@@ -5,6 +5,10 @@
 [a]: https://learn.microsoft.com/ko-kr/dotnet/csharp/ 
 틈틈이 읽어보자. 현장가면 로우 기술이 필요할지도
 
+- 교수님이 추천하는 코딩연습장 사이트 : [그누보드][a]
+
+[a]: http://www.verthasys.co.kr/coding/bbs/board.php?bo_table=db&page=3&device=pc
+
 >__용어 및 상식__
 
 - 닷넷 코어가 여러 플랫폼 지원하는거.. .어제 알려줬는데 까먹음 잊지말자
@@ -154,7 +158,6 @@ Console.WriteLine(c);
 ```
 ![image](https://github.com/sound2862/SFDiary/assets/62818790/4f7cce64-d446-48f3-b1a4-d6f59905965f)
 `타입 바꾸기~`
- 
 
 #이모저모
 -
