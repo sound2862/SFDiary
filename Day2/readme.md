@@ -227,10 +227,23 @@ Console.WriteLine($"나머지: {e}");
 ![image](https://github.com/sound2862/SFDiary/assets/62818790/638c7e2e-d235-4dee-a2dc-a8b1b9ec2a90)  
  __`day1에 있지만 다시보자 자료형`__
 
+- 이게 모지 설명을 안해주셨는데 일단 적어두자
 ```
 double pi = 3.141592;
 float pi2 = 3.141592F;
 ```
+
+- 자료형 최대, 최소
+```
+int max = int.MaxValue;
+int min = int.MinValue;
+
+Console.WriteLine(max);
+Console.WriteLine(min);
+```  
+![image](https://github.com/sound2862/SFDiary/assets/62818790/7997147c-a675-445a-a888-b0e15dc2cbc0)  
+
+`헷갈리면 이렇게 찍어봐도될듯`
 
 
 #이모저모
