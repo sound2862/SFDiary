@@ -1,0 +1,15 @@
+namespace ConsoleApp4
+{
+    internal class Program
+    {
+        static void Main(string[] args)
+        {
+            int n = 9;
+            int x = 100;
+            
+            if(x > 10 && n++ >= 10)
+
+            Console.WriteLine(n);
+        }
+    }
+}
