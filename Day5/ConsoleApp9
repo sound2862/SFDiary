@@ -1,0 +1,24 @@
+namespace ConsoleApp9
+{
+    class Mathmatics
+    {
+        //멤버 변수
+        //생성자
+        //멤버 메소드
+        
+        public int f(int x)
+        {
+            return x*x;
+        }
+    }
+    
+    internal class Program
+    {
+        static void Main(string[] args)
+        {
+            Mathmatics m = new Mathmatics();  //new를 받는순간 객체(인스턴스) 생성. 그 이전엔 레퍼런스.
+            int result = m.f(5);
+            Console.WriteLine(result); 
+        }
+    }
+}
