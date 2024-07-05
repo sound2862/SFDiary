@@ -1,0 +1,28 @@
+using System.Runtime.CompilerServices;
+
+namespace TestApp03
+{
+    internal class Program
+    {
+        static void Score()
+        {
+            Random random = new Random();
+            int[] score = new int[3];
+
+            for (int i = 0; i < score.Length; i++) 
+            {
+                score[i] = random.Next(70,101);
+            }
+
+            Console.WriteLine($"총점 : {score.Max()}");
+            Console.WriteLine($"최저 점수 : {score.Min()}");
+            Console.WriteLine($"최고 점수 : {score.Max()}");
+            Console.WriteLine($"평균 : {score.Average()}");
+        }
+
+        static void Main(string[] args)
+        {
+            Score();
+        }
+    }
+}
